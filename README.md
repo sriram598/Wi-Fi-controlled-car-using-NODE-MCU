@@ -2,7 +2,7 @@
 
 The NodeMCU is an ESP-32S-based microcontroller (MCU), similar to the ATmega328P, but with built-in Wi-Fi capability. It’s an excellent platform for beginners exploring IoT projects. The ESP-32S can connect to a Wi-Fi network or even function as a hotspot. Refer to the pinout diagram above for guidance—remember that in the Arduino code, GPIO numbers are used to reference the pins.
 In this setup, the NodeMCU connects to your router and obtains a local IP address. By entering this IP address into a web browser on your smartphone or computer (connected to the same router), a control webpage will appear with buttons to operate the car. This allows you to control the car wirelessly through the web interface.
-
+ 
 Hardware Required 
 
 Node MCU WIFI ESP-32S

@@ -13,12 +13,19 @@ Motor Driver L298N
 4 DC Motor 
 
 4 Wheel 
+
 Breadboard 400-Tie 
+
 2 Battery 1800mah Battery 
+
 Battery Box 
+
 Jumper Wire 20cm 20 pcs 
+
 Hot Glue Gun 
-2 Glue Sticks 
+
+2 Glue Sticks
+
 1 Switch.
 
 # Connections and Uploading Code

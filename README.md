@@ -12,3 +12,4 @@ Refer to the wiring diagram above and make the connections according to your set
 Both the NodeMCU and the L298N need power. It’s best to use separate power supplies for them. You can power the NodeMCU with 5V from a power bank (connected to the Vin and GND pins) and use a 9V or 12V battery for the L298N motor driver.
 
 The process is simple—just follow the pictures in the report and the NodeMCU pinout diagram to understand the connections clearly.
+ 

@@ -1,6 +1,7 @@
 # Wi-Fi-controlled-car-using-NODE-MCU
 
-The NodeMCU is an ESP-32S-based microcontroller (MCU), similar to the ATmega328P, but with built-in Wi-Fi capability.It’s an excellent platform for beginners exploring IoT projects. The ESP-32S can connect to a Wi-Fi network or even function as a hotspot. Refer to the pinout diagram above for guidance—remember that in the Arduino code, GPIO numbers are used to reference the pins.
+The NodeMCU is an ESP-32S-based microcontroller (MCU), similar to the ATmega328P, but with built-in Wi-Fi capability.It’s an excellent platform for beginners exploring IoT projects.The ESP-32S can connect to a Wi-Fi network or even function as a hotspot. Refer to the pinout diagram above for guidance—remember that in the Arduino code, GPIO numbers are used to reference the pins.
+
 In this setup, the NodeMCU connects to your router and obtains a local IP address. By entering this IP address into a web browser on your smartphone or computer (connected to the same router), a control webpage will appear with buttons to operate the car. This allows you to control the car wirelessly through the web interface. 
 
 # Hardware Required 
@@ -36,5 +37,5 @@ Refer to the wiring diagram above and make the connections according to your set
 
 Both the NodeMCU and the L298N need power. It’s best to use separate power supplies for them. You can power the NodeMCU with 5V from a power bank (connected to the Vin and GND pins) and use a 9V or 12V battery for the L298N motor driver.
 
-The process is simple—just follow the pictures in the report and the NodeMCU pinout diagram to understand the connections clearly.
+The process is simple just follow the picture and the NodeMCU pinout diagram to understand the connections clearly.
  

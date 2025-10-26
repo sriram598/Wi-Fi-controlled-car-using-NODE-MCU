@@ -5,7 +5,7 @@ The NodeMCU is an ESP-32S-based microcontroller (MCU), similar to the ATmega328P
 In this setup, the NodeMCU connects to your router and obtains a local IP address. By entering this IP address into a web browser on your smartphone or computer (connected to the same router), a control webpage will appear with buttons to operate the car. This allows you to control the car wirelessly through the web interface. 
 
 # Hardware Required 
--Node MCU WIFI ESP-32S
+- Node MCU WIFI ESP-32S
 
 -Motor Driver L298N
 

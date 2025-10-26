@@ -4,7 +4,7 @@ The NodeMCU is an ESP-32S-based microcontroller (MCU), similar to the ATmega328P
 
 In this setup, the NodeMCU connects to your router and obtains a local IP address. By entering this IP address into a web browser on your smartphone or computer (connected to the same router), a control webpage will appear with buttons to operate the car. This allows you to control the car wirelessly through the web interface. 
 
-# Hardware Required 
+## Hardware Required 
 - Node MCU WIFI ESP-32S
 - Motor Driver L298N
 - 4WD Smart Robot Car Kit 
@@ -18,7 +18,7 @@ In this setup, the NodeMCU connects to your router and obtains a local IP addres
 - 2 Glue Sticks
 - 1 Switch
 
-# Connections and Uploading Code
+## Connections and Uploading Code
 
 First, assemble your car chassis. Attach the motors, wheels, and caster wheel securely using screws. Solder wires to the motors and connect them to the L298N motor driver module.
 
